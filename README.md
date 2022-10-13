@@ -3,4 +3,4 @@
 
 ## Fork de repositorios
 
-<a href="https://d0gma-x.github.io/gapablaza/"> Gapablaza </a>
+<a href="https://github.com/d0gma-x/gapablaza"> Gapablaza </a>
