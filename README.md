@@ -3,7 +3,7 @@
 
 ## Fork de repositorios
 
-<a href="https://github.com/d0gma-x/gapablaza"> Gapablaza </a>
+<a href="https://github.com/Eneirafonseca/gapablaza"> Gapablaza </a>
 
-<a href="https://github.com/cpileon/cpileon.github.io"> cpileon </a>
+<a href="https://github.com/Eneirafonseca/cpileon.github.io"> cpileon </a>
 
